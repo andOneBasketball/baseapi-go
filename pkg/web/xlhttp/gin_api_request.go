@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"git.wangpos.com/web3/wise-atlas-go-base/pkg/xlerror"
+	"github.com/andOneBasketball/baseapi-go/pkg/xlerror"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
